@@ -25,7 +25,7 @@ body {
 }
 @keyframes heart {
     0%{ transform: rotate(-45deg) scale(1.07);           
-         -webkit-transform: rotate(-45deg) scale(1.07)                ; :; :; -moz-transform: rotate(-45deg) scale(1.07)                ; :; :; -ms-transform: rotate(-45deg) scale(1.07)                ; :; :; -o-transform: rotate(-45deg) scale(1.07)                ; :; :;
+         -webkit-transform: rotate(-45deg) scale(1.07)                ;  -moz-transform: rotate(-45deg) scale(1.07)                ; :; :; -ms-transform: rotate(-45deg) scale(1.07)                ; :; :; -o-transform: rotate(-45deg) scale(1.07)                ; :; :;
 }
 80%{ transform: rotate(-45deg) scale(1.0); -webkit-transform: rotate(-45deg) scale(1.0); -moz-transform: rotate(-45deg) scale(1.0); -ms-transform: rotate(-45deg) scale(1.0); -o-transform: rotate(-45deg) scale(1.0);
 }
